@@ -741,7 +741,7 @@
     "movo.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
-        "title": "Movo temp",
+        "title": "Movo",
         "order": 1
       },
       "components": [
